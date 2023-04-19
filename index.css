@@ -1,0 +1,142 @@
+/* Estilos para el encabezado */
+header {
+    background-color: #0a2758;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 36px;
+  }
+  
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  li {
+    margin: 10px 0;
+  }
+  
+  /* Estilos para la imagen de GitHub y LinkedIn */
+  li a {
+    display: inline-block;
+    margin-left: 10px;
+  }
+  
+  li a img {
+    height: 30px;
+  }
+  
+  /* Estilos para el cuerpo de la hoja de vida */
+  body {
+    background-color: #3176bc;
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    
+  }
+  
+  section {
+    margin: 30px 0;
+  }
+  
+  section h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  section ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  section li {
+    margin: 10px 0;
+  }
+  
+  section li span {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  /* Estilos para la sección de habilidades */
+  .Habilidades {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .Habilidades {
+
+    border-radius: 100px;
+    padding: 100px 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+  
+  /* Estilos para la sección de experiencia */
+  .experience h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .experience h4 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .experience p {
+    margin-bottom: 10px;
+  }
+  
+  .experience ul {
+    list-style-type: none;
+    margin: 10;
+    padding: 10;
+  }
+  
+  .experience li {
+    margin-bottom: 10px;
+  }
+  
+  .experience li span {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  /* Estilos para la sección de educación */
+  .education h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .education h4 {
+    font-size: 16px;
+    margin-bottom: 5px;
+  }
+  
+  .education p {
+    margin-bottom: 10px;
+  }
+  
+  .education ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .education li {
+    margin-bottom: 10px;
+  }
+  
+  .education li span {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  
