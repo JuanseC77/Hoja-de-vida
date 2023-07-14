@@ -1,5 +1,4 @@
-/* Estilos para el encabezado */
-header {
+ header {
     background-color: #0a2758;
     color: #fff;
     padding: 20px;
@@ -20,7 +19,6 @@ header {
     margin: 10px 0;
   }
   
-  /* Estilos para la imagen de GitHub y LinkedIn */
   li a {
     display: inline-block;
     margin-left: 10px;
@@ -30,10 +28,9 @@ header {
     height: 30px;
   }
   
-  /* Estilos para el cuerpo de la hoja de vida */
   body {
-    background-color: #3176bc;
-    color: #fff;
+    background-color: #8bbae9;
+    color: #000000;
     margin: 0;
     padding: 20px;
     font-family: Arial, sans-serif;
@@ -64,7 +61,6 @@ header {
     margin-right: 10px;
   }
   
-  /* Estilos para la sección de habilidades */
   .Habilidades {
     display: flex;
     flex-wrap: wrap;
@@ -79,7 +75,6 @@ header {
     font-size: 14px;
   }
   
-  /* Estilos para la sección de experiencia */
   .experience h3 {
     font-size: 20px;
     margin-bottom: 10px;
@@ -109,7 +104,6 @@ header {
     margin-right: 10px;
   }
   
-  /* Estilos para la sección de educación */
   .education h3 {
     font-size: 20px;
     margin-bottom: 10px;
